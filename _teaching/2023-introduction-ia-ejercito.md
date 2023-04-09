@@ -13,9 +13,7 @@ Curso de Introducción a la Inteligencia Artificial dictado de forma remota para
 [Syllabus](http://walterpcasas.github.io/files/Syllabus.pdf)
 
 
-
-Heading 2
+Lectures
 ======
+[Clase 1](https://www.youtube.com/watch?v=X9pzCdfUO4g)
 
-Heading 3
-======
