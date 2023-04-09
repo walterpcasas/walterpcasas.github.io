@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Walter Casas"
 title_separator          : "-"
 name                     : &name "Walter Casas"
-description              : &description "Senior Data Scientist"
+description              : &description "Deep Learning Researcher"
 url                      : https://walterpcasas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "walterpcasas/walterpcasas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Walter Casas"
   avatar           : "profile.jpg"
-  bio              : "Senior Data Scientist @UNICAMP"
+  bio              : "Deep Learning researcher @UNICAMP"
   location         : "Brazil"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
