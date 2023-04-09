@@ -2,7 +2,7 @@
 title: "Introduction to AI"
 collection: teaching
 type: "Posgraduate course"
-permalink: /teaching/2023-introduction-ia-ejercito
+permalink: /teaching/2023-introduction-ia-dicitece
 venue: "Dirección de Ciencia y Tecnología del Ejercito del Perú"
 date: 2023-04-03
 location: "Online"
