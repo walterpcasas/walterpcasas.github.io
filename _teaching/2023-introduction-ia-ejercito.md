@@ -8,12 +8,13 @@ date: 2023-04-03
 location: "Online"
 ---
 
-Curso de Introducción a la Inteligencia Artificial dictado de forma remota para la Dirección de Ciencia y Tecnología del Ejercito del Perú (DICITECE).
+This virtual course on Introduction to Artificial Intelligence is designed for members of the Directorate of Science and Technology of the Peruvian Army (DICITECE). The course covers the fundamentals of AI, key concepts, and techniques such as machine learning, time series and neural networks.
+
 
 [Syllabus](http://walterpcasas.github.io/files/Syllabus.pdf)
 
 
-Lectures
+Lecture videos
 ======
-[Clase 1](https://www.youtube.com/watch?v=X9pzCdfUO4g)
+[Lecture 01 - Numpy](https://www.youtube.com/watch?v=X9pzCdfUO4g)
 
