@@ -20,6 +20,7 @@ Work experience
 ======
 * Jul 2022 - Jan 2023: NLP Developer / Data Scientist
   * BairesDev
+  * Develop and deploy NLP models
 <!-- * Duties included: Tagging issues
   * Supervisor: Professor Git 
 
