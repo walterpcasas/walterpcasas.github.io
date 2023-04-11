@@ -16,5 +16,5 @@ This virtual course on Introduction to Artificial Intelligence is designed for m
 
 Lecture videos
 ======
-[Lecture 01 - Numpy](https://www.youtube.com/watch?v=X9pzCdfUO4g)
-
+1. [Lecture 01 - Numpy](https://www.youtube.com/watch?v=X9pzCdfUO4g)
+2. [Lecture 02 - Pandas](https://www.youtube.com/watch?v=3d6irxSVYto)
