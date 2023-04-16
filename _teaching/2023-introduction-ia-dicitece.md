@@ -11,10 +11,17 @@ location: "Online"
 This virtual course on Introduction to Artificial Intelligence is designed for members of the Directorate of Science and Technology of the Peruvian Army (DICITECE). The course covers the fundamentals of AI, key concepts, and techniques such as machine learning, time series and neural networks.
 
 
-[Syllabus](http://walterpcasas.github.io/files/Syllabus.pdf)
+Resources
+======
+[Syllabus](http://walterpcasas.github.io/files/2023-ia-dicitece/Syllabus.pdf)
+
+Slides:
+* [Introduction to AI](https://drive.google.com/file/d/1xQ0HiqL_OtCufUVd2KatQmGGCJfWoCTt/view)
+
 
 
 Lecture videos
 ======
 1. [Lecture 01 - Numpy](https://www.youtube.com/watch?v=X9pzCdfUO4g)
 2. [Lecture 02 - Pandas](https://www.youtube.com/watch?v=3d6irxSVYto)
+3. [Lecture 03 - Data Science](https://www.youtube.com/watch?v=DsXgFFFDkoQ)
