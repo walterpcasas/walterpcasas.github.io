@@ -13,7 +13,7 @@ This virtual course on Introduction to Artificial Intelligence is designed for m
 
 Resources
 ======
-[Syllabus](http://walterpcasas.github.io/files/2023-ia-dicitece/Syllabus.pdf)
+[Syllabus](https://drive.google.com/file/d/1H33AYl7BfFxdaB7yrmoAw-2sCAlRyLR0/view)
 
 Slides:
 * [Introduction to AI](https://drive.google.com/file/d/172kWQMwMZwbygWOZ3PBsiBKt588F63QX/view)
