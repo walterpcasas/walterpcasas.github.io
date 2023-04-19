@@ -16,7 +16,8 @@ Resources
 [Syllabus](http://walterpcasas.github.io/files/2023-ia-dicitece/Syllabus.pdf)
 
 Slides:
-* [Introduction to AI](https://drive.google.com/file/d/1xQ0HiqL_OtCufUVd2KatQmGGCJfWoCTt/view)
+* [Introduction to AI](https://drive.google.com/file/d/172kWQMwMZwbygWOZ3PBsiBKt588F63QX/view)
+* [Regression Models](https://drive.google.com/file/d/11P7Mna6LkxP_aQN7uumloCVZ2rLVUMts/view)
 
 
 
@@ -25,3 +26,8 @@ Lecture videos
 1. [Lecture 01 - Numpy](https://www.youtube.com/watch?v=X9pzCdfUO4g)
 2. [Lecture 02 - Pandas](https://www.youtube.com/watch?v=3d6irxSVYto)
 3. [Lecture 03 - Data Science](https://www.youtube.com/watch?v=DsXgFFFDkoQ)
+4. [Lecture 04 - Regression Models](https://www.youtube.com/watch?v=KmPVswgJEo0)
+
+
+Notebooks
+=====
