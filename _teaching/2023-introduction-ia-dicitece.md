@@ -32,3 +32,9 @@ Lecture videos
 
 Notebooks
 =====
+1. [Python](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/python.ipynb)
+2. [Numpy](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/numpy.ipynb)
+3. [Pandas](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/pandas.ipynb)
+4. [Matplotlib](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/matplotlib.ipynb)
+5. [Scikit-Learn](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/sklearn.ipynb)
+6. [Linear Regression](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/regression.ipynb)
