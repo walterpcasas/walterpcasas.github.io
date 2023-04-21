@@ -25,9 +25,10 @@ Lecture videos
 ======
 1. [Lecture 01 - Numpy](https://www.youtube.com/watch?v=X9pzCdfUO4g)
 2. [Lecture 02 - Pandas](https://www.youtube.com/watch?v=3d6irxSVYto)
-3. [Lecture 03 - Data Science](https://www.youtube.com/watch?v=DsXgFFFDkoQ)
-4. [Lecture 04 - Regression Models I](https://www.youtube.com/watch?v=KmPVswgJEo0)
-5. [Lecture 05 - Regression Models II](https://www.youtube.com/watch?v=jRJ4SBjJPJM)
+3. [Lecture 03 - Matplotlib](https://www.youtube.com/watch?v=gNM15emRSS8)
+4. [Lecture 04 - Data Science](https://www.youtube.com/watch?v=DsXgFFFDkoQ)
+5. [Lecture 05 - Regression Models I](https://www.youtube.com/watch?v=KmPVswgJEo0)
+6. [Lecture 06 - Regression Models II](https://www.youtube.com/watch?v=jRJ4SBjJPJM)
 
 
 Notebooks
