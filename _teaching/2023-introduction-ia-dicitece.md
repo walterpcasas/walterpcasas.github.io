@@ -18,6 +18,7 @@ Resources
 Slides:
 * [Introduction to AI](https://drive.google.com/file/d/172kWQMwMZwbygWOZ3PBsiBKt588F63QX/view)
 * [Regression Models](https://drive.google.com/file/d/11P7Mna6LkxP_aQN7uumloCVZ2rLVUMts/view)
+* [Classification Models](https://drive.google.com/file/d/1N-5JyTJU8y20Puhf4GATifjPyws7M_B_/view)
 
 
 
@@ -29,6 +30,7 @@ Lecture videos
 4. [Lecture 04 - Data Science](https://www.youtube.com/watch?v=DsXgFFFDkoQ)
 5. [Lecture 05 - Regression Models I](https://www.youtube.com/watch?v=KmPVswgJEo0)
 6. [Lecture 06 - Regression Models II](https://www.youtube.com/watch?v=jRJ4SBjJPJM)
+7. [Lecture 07 - Classification Models I](https://www.youtube.com/watch?v=IHacvzxLiZg)
 
 
 Notebooks
