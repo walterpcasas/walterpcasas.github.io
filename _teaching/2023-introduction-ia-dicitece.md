@@ -18,8 +18,8 @@ Resources
 Slides:
 * [Introduction to AI](https://drive.google.com/file/d/172kWQMwMZwbygWOZ3PBsiBKt588F63QX/view)
 * [Regression Models](https://drive.google.com/file/d/11P7Mna6LkxP_aQN7uumloCVZ2rLVUMts/view)
-* [Classification Models](https://drive.google.com/file/d/1N-5JyTJU8y20Puhf4GATifjPyws7M_B_/view)
-
+* [Classification Models 1](https://drive.google.com/file/d/1N-5JyTJU8y20Puhf4GATifjPyws7M_B_/view)
+* [Classification Models 2](https://drive.google.com/file/d/1E_-B9yZpiQCPGqD2VhvuBi5JlZGhI9hq/view)
 
 
 Lecture videos
@@ -31,6 +31,7 @@ Lecture videos
 5. [Lecture 05 - Regression Models I](https://www.youtube.com/watch?v=KmPVswgJEo0)
 6. [Lecture 06 - Regression Models II](https://www.youtube.com/watch?v=jRJ4SBjJPJM)
 7. [Lecture 07 - Classification Models I](https://www.youtube.com/watch?v=IHacvzxLiZg)
+8. [Lecture 08 - Classification Models II](https://www.youtube.com/watch?v=rAjhjRivjjY)
 
 
 Notebooks
@@ -41,3 +42,4 @@ Notebooks
 4. [Matplotlib](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/matplotlib.ipynb)
 5. [Scikit-Learn](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/sklearn.ipynb)
 6. [Linear Regression](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/regression.ipynb)
+7. [Classification](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/classification.ipynb)
