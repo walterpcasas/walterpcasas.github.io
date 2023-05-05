@@ -20,7 +20,9 @@ Slides:
 * [Regression Models](https://drive.google.com/file/d/11P7Mna6LkxP_aQN7uumloCVZ2rLVUMts/view)
 * [Classification Models 1](https://drive.google.com/file/d/1N-5JyTJU8y20Puhf4GATifjPyws7M_B_/view)
 * [Classification Models 2](https://drive.google.com/file/d/1E_-B9yZpiQCPGqD2VhvuBi5JlZGhI9hq/view)
-* [Clustering](https://drive.google.com/file/d/17mv3Vg-vPbrgljjSpiUqhJhxhFSy938F/view)
+* [Clustering 1](https://drive.google.com/file/d/17mv3Vg-vPbrgljjSpiUqhJhxhFSy938F/view)
+* [Clustering 2](https://drive.google.com/file/d/1MxCykTJYTbvWg7pCBJhGQuAXsmZbKixH/view)
+* [Neural Networks](https://drive.google.com/file/d/10pKpUIy5dYdZqjMWgFiowCrtigUi-GdX/view)
 
 
 Lecture videos
@@ -33,7 +35,9 @@ Lecture videos
 6. [Lecture 06 - Regression Models II](https://www.youtube.com/watch?v=jRJ4SBjJPJM)
 7. [Lecture 07 - Classification Models I](https://www.youtube.com/watch?v=IHacvzxLiZg)
 8. [Lecture 08 - Classification Models II](https://www.youtube.com/watch?v=rAjhjRivjjY)
-9. [Lecture 09 - Clustering](https://www.youtube.com/watch?v=FsLs8_qCCS0)
+9. [Lecture 09 - Clustering I](https://www.youtube.com/watch?v=FsLs8_qCCS0)
+10. [Lecture 10 - Clustering II](https://www.youtube.com/watch?v=wleRYHajN6Y)
+11. [Lecture 11 - Neural Networks](https://www.youtube.com/watch?v=D07Vw_UPgt0)
 
 
 Notebooks
@@ -45,4 +49,5 @@ Notebooks
 5. [Scikit-Learn](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/sklearn.ipynb)
 6. [Linear Regression](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/regression.ipynb)
 7. [Classification](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/classification.ipynb)
-8. [Clustering](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/clustering.ipynb)
+8. [Clustering 1](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/clustering.ipynb)
+9. [Clustering 2](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/clustering_ii.ipynb)
