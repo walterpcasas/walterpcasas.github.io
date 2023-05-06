@@ -37,7 +37,8 @@ Lecture videos
 8. [Lecture 08 - Classification Models II](https://www.youtube.com/watch?v=rAjhjRivjjY)
 9. [Lecture 09 - Clustering I](https://www.youtube.com/watch?v=FsLs8_qCCS0)
 10. [Lecture 10 - Clustering II](https://www.youtube.com/watch?v=wleRYHajN6Y)
-11. [Lecture 11 - Neural Networks](https://www.youtube.com/watch?v=D07Vw_UPgt0)
+11. [Lecture 11 - Neural Networks I](https://www.youtube.com/watch?v=D07Vw_UPgt0)
+12. [Lecture 12 - Neural Networks II](https://www.youtube.com/watch?v=I-gmwbYEgZA)
 
 
 Notebooks
@@ -51,3 +52,4 @@ Notebooks
 7. [Classification](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/classification.ipynb)
 8. [Clustering 1](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/clustering.ipynb)
 9. [Clustering 2](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/clustering_ii.ipynb)
+10. [Neural Networks](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/neuralnet.ipynb)
