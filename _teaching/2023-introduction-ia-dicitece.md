@@ -23,6 +23,7 @@ Slides:
 * [Clustering 1](https://drive.google.com/file/d/17mv3Vg-vPbrgljjSpiUqhJhxhFSy938F/view)
 * [Clustering 2](https://drive.google.com/file/d/1MxCykTJYTbvWg7pCBJhGQuAXsmZbKixH/view)
 * [Neural Networks](https://drive.google.com/file/d/10pKpUIy5dYdZqjMWgFiowCrtigUi-GdX/view)
+* [Time Series](https://drive.google.com/file/d/15KayB-Z7fGKqM6D1ybzJzXGe_9bAkCEx/view)
 
 
 Lecture videos
@@ -39,6 +40,7 @@ Lecture videos
 10. [Lecture 10 - Clustering II](https://www.youtube.com/watch?v=wleRYHajN6Y)
 11. [Lecture 11 - Neural Networks I](https://www.youtube.com/watch?v=D07Vw_UPgt0)
 12. [Lecture 12 - Neural Networks II](https://www.youtube.com/watch?v=I-gmwbYEgZA)
+13. [Lecture 13 - Time Series](https://www.youtube.com/watch?v=AkPmpheXD44)
 
 
 Notebooks
@@ -53,3 +55,4 @@ Notebooks
 8. [Clustering 1](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/clustering.ipynb)
 9. [Clustering 2](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/clustering_ii.ipynb)
 10. [Neural Networks](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/neuralnet.ipynb)
+11. [Time Series](https://github.com/walterpcasas/notebooks_class/blob/master/2023/dicitece/time_series.ipynb)
