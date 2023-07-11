@@ -8,7 +8,7 @@ date: 2023-07-13
 location: "Online"
 ---
 
-This course comprehensively introduces natural language processing (NLP) using deep learning techniques. Through hands-on exercises and practical examples, students will explore word embedding, text embedding, recurrent neural networks (RNNs), LSTM, GRU, and network families like BERT. The course emphasizes using Python and the Keras library for implementing and applying NLP models. By the end of the course, students will have the knowledge and skills to utilize deep learning for NLP tasks effectively.
+This course provides a comprehensive introduction to Natural Language Processing (NLP) using advanced Deep Learning techniques. Students will engage with practical exercises in Python and Keras, exploring key concepts like Word and Text Embeddings, Recurrent Neural Networks (RNNs), LSTM, GRU, and Transformer models such as BERT.
 
 <!--
 Resources
