@@ -10,25 +10,15 @@ location: "Online"
 
 This course provides a comprehensive introduction to Natural Language Processing (NLP) using advanced Deep Learning techniques. Students will engage with practical exercises in Python and Keras, exploring key concepts like Word and Text Embeddings, Recurrent Neural Networks (RNNs), LSTM, GRU, and Transformer models such as BERT.
 
-<!--
+
 Resources
 ======
-[Syllabus](https://drive.google.com/file/d/1H33AYl7BfFxdaB7yrmoAw-2sCAlRyLR0/view)
+[Syllabus](https://drive.google.com/file/d/1tOPvGFwMd8Y0G0SWmV8pUVi1hlBNq-Ng/view)
 
 Slides:
-* [Introduction to AI](https://drive.google.com/file/d/172kWQMwMZwbygWOZ3PBsiBKt588F63QX/view)
-* [Regression Models](https://drive.google.com/file/d/11P7Mna6LkxP_aQN7uumloCVZ2rLVUMts/view)
-* [Classification Models 1](https://drive.google.com/file/d/1N-5JyTJU8y20Puhf4GATifjPyws7M_B_/view)
-* [Classification Models 2](https://drive.google.com/file/d/1E_-B9yZpiQCPGqD2VhvuBi5JlZGhI9hq/view)
-* [Clustering 1](https://drive.google.com/file/d/17mv3Vg-vPbrgljjSpiUqhJhxhFSy938F/view)
-* [Clustering 2](https://drive.google.com/file/d/1MxCykTJYTbvWg7pCBJhGQuAXsmZbKixH/view)
-* [Neural Networks](https://drive.google.com/file/d/10pKpUIy5dYdZqjMWgFiowCrtigUi-GdX/view)
-* [Time Series](https://drive.google.com/file/d/15KayB-Z7fGKqM6D1ybzJzXGe_9bAkCEx/view)
 
-
-Lecture videos
-======
-1. [Lecture 01 - Numpy](https://www.youtube.com/watch?v=X9pzCdfUO4g)
+1. [Introduction to Deep Learning for NLP](https://drive.google.com/file/d/1oL3eRLVtswwLaPdC06gYcou1Q63A-ATY/view)
+<!--
 2. [Lecture 02 - Pandas](https://www.youtube.com/watch?v=3d6irxSVYto)
 3. [Lecture 03 - Matplotlib](https://www.youtube.com/watch?v=gNM15emRSS8)
 4. [Lecture 04 - Data Science](https://www.youtube.com/watch?v=DsXgFFFDkoQ)
