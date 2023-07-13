@@ -23,4 +23,4 @@ Slides:
 
 Notebooks
 =====
-* [Lecture 01](https://github.com/walterpcasas/)
+* [Lecture 01](https://github.com/walterpcasas/notebooks_class/blob/master/2023/utec/lecture_01.ipynb)
