@@ -18,9 +18,15 @@ Resources
 Slides:
 
 1. [Introduction to Deep Learning for NLP](https://drive.google.com/file/d/1oL3eRLVtswwLaPdC06gYcou1Q63A-ATY/view)
+2. [Language Models](https://drive.google.com/file/d/1vot5XAfBN64Khnebfye9niErk35e0CpO/view)
+3. [Advanced NLP Models](https://drive.google.com/file/d/1TbdPWIbidMwRCu0CvqP9KE_M5lS_b_B8/view)
+4. [Transformers Models](https://drive.google.com/file/d/1nLRYVwyCVKtxNMyhYvzbq-g0I7WLW_Tt/view)
 
 
 
 Notebooks
 =====
 * [Lecture 01](https://github.com/walterpcasas/notebooks_class/blob/master/2023/utec/lecture_01.ipynb)
+* [Lecture 02](https://github.com/walterpcasas/notebooks_class/blob/master/2023/utec/lecture_02.ipynb)
+* [Lecture 03](https://github.com/walterpcasas/notebooks_class/blob/master/2023/utec/lecture_03.ipynb)
+* [Lecture 04](https://github.com/walterpcasas/notebooks_class/blob/master/2023/utec/lecture_04.ipynb)
